@@ -1,4 +1,4 @@
-# DevOpsExample.java
+# DevOpsExample
 /**
 * The HelloWorldApp class implements and application that simply prints "Hello World" to standard Output.
 * /
